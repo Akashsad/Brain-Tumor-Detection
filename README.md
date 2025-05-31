@@ -11,12 +11,5 @@ This project utilizes **machine learning and deep learning** techniques to class
 - **Evaluation Metrics**: Assessing model accuracy and performance.
 - **Visualization**: Displaying results through plots and heatmaps.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Akashsad/Brain-Tumor-Detection.git
-pip install -r requirements.txt
-python preprocess.py
-python train.py
-python predict.py --image_path /path/to/image.jpg
+
 Akash (Project Lead)
